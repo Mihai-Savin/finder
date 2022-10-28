@@ -1,0 +1,6 @@
+mere
+pere
+m@r
+p/r
+p\r
+a b c  d
